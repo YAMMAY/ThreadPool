@@ -129,4 +129,6 @@ public:
         return true;
     }
 
-}
+};
+
+#endif // ThreadSafeQueue.h
